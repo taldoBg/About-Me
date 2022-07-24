@@ -1,0 +1,177 @@
+#ft {
+  position: absolute;
+  width: 297px;
+  height: 231px;
+  left: 725px;
+  top: 60px;
+
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 297px;
+  height: 231px;
+  left: 740px;
+  top: 60px;
+
+  border: 2px solid #4b2a6b;
+}
+
+#insta {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 326px;
+  height: 49px;
+  left: 720px;
+  top: 486px;
+  background-color: transparent;
+
+  border: 2px solid #67438c;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+#twttr {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 326px;
+  height: 49px;
+  left: 720px;
+  top: 550px;
+
+  border: 2px solid#67438c;
+  border-radius: 4px;
+  background-color: transparent;
+}
+#git {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 326px;
+  height: 49px;
+  left: 720px;
+  top: 616px;
+
+  border: 2px solid #67438c;
+  border-radius: 4px;
+  background-color: transparent;
+}
+#spotfy {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 326px;
+  height: 49px;
+  left: 720px;
+  top: 685px;
+
+  border: 2px solid #67438c;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+#nome {
+  position: absolute;
+  width: 99px;
+  height: 24px;
+  left: 700px;
+  top: 355px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 24px;
+
+  text-align: relative;
+
+  color: #67438c;
+}
+
+p {
+  position: absolute;
+  width: 99px;
+  height: 24px;
+  left: 720px;
+  top: 355px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 24px;
+
+  text-align: relative;
+
+  color: #67438c;
+}
+#um {
+  position: absolute;
+  width: 99px;
+  height: 24px;
+  left: 1040px;
+  top: 354px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 24px;
+
+  text-align: relative;
+
+  color: #67438c;
+}
+
+#dois {
+  position: absolute;
+  width: 99px;
+  height: 24px;
+  left: 860px;
+  top: 355px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 24px;
+
+  text-align: relative;
+
+  color: #67438c;
+}
+
+body {
+  position: relative;
+  background-color: #130520;
+}
+#INSTA {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 150px;
+  top: 10px;
+}
+#TWTTR {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 150px;
+  top: 10px;
+}
+#GIT {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 150px;
+  top: 10px;
+}
+
+#SPOTFY {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 150px;
+  top: 10px;
+}

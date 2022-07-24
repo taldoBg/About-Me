@@ -1,0 +1,1 @@
+document.getElementById('blog-tittle')
